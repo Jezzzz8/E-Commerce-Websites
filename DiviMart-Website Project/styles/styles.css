@@ -2,7 +2,10 @@
     --yellow: rgb(241, 172, 42);;  
 
 }
-
+.product a{
+  text-decoration: none;
+  width: 90%;
+}
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -67,6 +70,9 @@ body {
     color: black;
 }
 
+.nav-right a:hover{
+  color: grey;
+}
 .hero {
     position: relative;
     overflow: hidden;
@@ -194,6 +200,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow: hidden;
 }
 
 .product:hover {
@@ -292,6 +299,10 @@ body {
     padding: 0;
     margin: 0;
 }
+
+
+
+
 
 @media (max-width: 768px) {
    .background-text{
