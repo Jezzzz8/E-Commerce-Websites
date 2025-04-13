@@ -1,4 +1,4 @@
-# E-Commerce Websites
+# E-Commerce Website
 Introduction 
 
 In today's digital world, eCommerce websites have become essential for businesses to succeed and remain competitive. As online shopping continues to rise, having a reliable, user-friendly, and visually appealing website is crucial for attracting and retaining customers. This project focuses on creating an eCommerce website that provides a seamless shopping experience.
